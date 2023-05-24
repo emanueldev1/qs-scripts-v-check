@@ -1,4 +1,4 @@
 {
-  "version": "1.2.0",
-  "notes": "¡Nueva actualización disponible! Esta versión incluye correcciones de errores y mejoras de rendimiento."
+  "version": "1.0.3",
+  "notes": "!Fixed Big Issues on QBCore and ESX when player join and fix the Save on MDT"
 }
