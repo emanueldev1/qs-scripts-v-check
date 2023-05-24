@@ -1,1 +1,4 @@
-{"version":"1.0.5", "notes":"Fixed join event on Qb and ESX"}
+{
+  "version": "1.2.0",
+  "notes": "¡Nueva actualización disponible! Esta versión incluye correcciones de errores y mejoras de rendimiento."
+}
