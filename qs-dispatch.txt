@@ -1,4 +1,4 @@
 {
-  "version": "1.0.3",
-  "notes": "!Fixed Big Issues on QBCore and ESX when player join and fix the Save on MDT"
+  "version": "1.0.4",
+  "notes": "Fixed on player join error on esx and qb and Fixed player list error on dispatch"
 }
