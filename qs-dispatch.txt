@@ -1,4 +1,4 @@
 {
-  "version": "1.0.4",
-  "notes": "Fixed on player join error on esx and qb and Fixed player list error on dispatch"
+  "version": "1.0.5",
+  "notes": "Fixed Open Velocity Radar, Please replace all files"
 }
