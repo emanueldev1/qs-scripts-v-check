@@ -1,4 +1,4 @@
 {
-  "version": "1.1.0",
-  "notes": "Design improvements, Being able to see the players with their name and callsign on the dispatch map, 60% better performance improvements, Faster Frontend, PlayerData ETC bug fixes in both frameworks"
+  "version": "1.1.2",
+  "notes": "Fixed bug where players would not spawn on the UI map, Fixed bug where fire calls would only spawn once, Fixed performance issues when detecting shots"
 }
