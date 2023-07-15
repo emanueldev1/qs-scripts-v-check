@@ -1,4 +1,4 @@
 {
-  "version": "1.1.3",
-  "notes": "Added system FX for when a dispatch call is detected by default (speed radar trigger detection) Configurable, Added the ability to send the same alert to multiple jobs., Added the ability to delete a callout directly from the map, Added the ability to configure and if you want to use Km/h or MPH (from the NUI in the dispatch/config file), Fixed various UI bugs, Fixed speedometer responsiveness, Added command hints, Removed default webhooks"
+  "version": "1.3.0",
+  "notes": "Improved all UI Design, Improved the information system for people and vehicles, Added bodycam system, Fixed minor onplayer join bugs (NEW), Fixed infinity load when searching for vehicles, Added new vehicles and custom billing, Export aggregates and events from the serverside"
 }
