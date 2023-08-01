@@ -1,4 +1,4 @@
 {
-  "version": "1.3.3",
+  "version": "1.3.2",
   "notes": "UI Improvements (Bug Fixes), New Settings, and Minor Optimization PREVIEW: https://www.youtube.com/watch?v=BwUcEOzf_CU&ab_channel=QuasarStore"
 }
