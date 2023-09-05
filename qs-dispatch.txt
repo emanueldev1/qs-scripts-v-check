@@ -1,4 +1,4 @@
 {
-  "version": "1.4.4",
-  "notes": ":bug: Fixed issues with blips and duty system \n :bug: The use of blips was optimized \n :bug: Fixed several issues with the duty system \n :white_check_mark: The power to activate or deactivate the vision cone in the blips is added\n :white_check_mark: General code cleanup PREVIEW: https://www.youtube.com/watch?v=BwUcEOzf_CU&ab_channel=QuasarStore"
+  "version": "1.5.0",
+  "notes": "New Fealtures (Jail System, Penitencial Codes) bug fixes an grammar fixes (PRIORITY PATCH)"
 }
