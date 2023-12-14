@@ -1,4 +1,4 @@
 {
-  "version": "1.7.0",
-  "notes": "Much changes, check Discord (Priority patch)"
+  "version": "1.7.1",
+  "notes": "Mayor Bug fix (Priority patch)"
 }
