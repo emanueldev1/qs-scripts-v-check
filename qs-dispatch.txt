@@ -1,4 +1,4 @@
 {
   "version": "2.0",
-  "notes": "New version of QS dispatch now available, with many new features, you can download it now from https://keymaster.fivem.net/ All the new features you can see here! https://buy.quasar-store.com/package/5799904#packageName"
+  "notes": "New version of QS dispatch now available, with many new features, All the new features you can see here! https://buy.quasar-store.com/package/5799904#packageName"
 }
