@@ -1,4 +1,4 @@
 {
-  "version": "2.0",
-  "notes": "New version of QS dispatch now available, with many new features, All the new features you can see here! https://buy.quasar-store.com/package/5799904#packageName"
+  "version": "2.0.2",
+  "notes": "Fix bugs with incidents and F8 NUI errors, ando more fixes and optimizations"
 }
