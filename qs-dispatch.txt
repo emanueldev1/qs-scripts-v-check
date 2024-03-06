@@ -1,4 +1,4 @@
 {
-  "version": "2.0.2",
-  "notes": "Fix bugs with incidents and F8 NUI errors, ando more fixes and optimizations"
+  "version": "2.0.3",
+  "notes": "Various fixes and improvementes, ando more fixes and optimizations"
 }
