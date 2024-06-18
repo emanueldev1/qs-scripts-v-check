@@ -1,1 +1,5 @@
 
+{
+  "version": "1.0.2",
+  "notes": "Added V check and more fixes, added duply marker and more
+}
