@@ -1,4 +1,4 @@
 {
-  "version": "2.0.4",
-  "notes": "Various fixes and improvementes, ando more fixes and optimizations"
+  "version": "2.1.1",
+  "notes": "IMPORTANT FIX, CRITICAL ERRORS FIXED, Added jail and more 2.1.0, mayor fixes 2.1.1 -> Current: 2.1.1"
 }
