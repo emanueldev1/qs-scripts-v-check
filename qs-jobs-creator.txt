@@ -1,5 +1,4 @@
-
 {
-  "version": "1.0.2",
-  "notes": "Added V check and more fixes, added duply marker and more
+  "version": "1.0.4",
+  "notes": "Big fixes with crafting and tutorial for new users included in the first open of the scriot"
 }
