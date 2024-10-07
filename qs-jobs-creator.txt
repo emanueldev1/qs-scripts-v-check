@@ -1,4 +1,4 @@
 {
-  "version": "1.0.4",
-  "notes": "Big fixes with crafting and tutorial for new users included in the first open of the scriot"
+  "version": "1.0.6",
+  "notes": "Fixed random bugs, added improvements and much more, change log at: https://discord.com/channels/1042987309198483607/1249461776890855485/1292945496670867496 "
 }
