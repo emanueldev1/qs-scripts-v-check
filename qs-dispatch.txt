@@ -1,4 +1,4 @@
 {
-  "version": "2.1.1",
-  "notes": "IMPORTANT FIX, CRITICAL ERRORS FIXED, Added jail and more 2.1.0, mayor fixes 2.1.1 -> Current: 2.1.1"
+  "version": "2.1.4",
+  "notes": "IMPORTANT FIX, CRITICAL ERRORS FIXED, Vehicles config simplified to prevent critical errors and more"
 }
