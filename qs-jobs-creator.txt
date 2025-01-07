@@ -1,4 +1,4 @@
 {
-  "version": "1.0.6",
-  "notes": "Fixed random bugs, added improvements and much more, change log at: https://discord.com/channels/1042987309198483607/1249461776890855485/1292945496670867496 "
+  "version": "1.0.9",
+  "notes": "Important bug fixes, and changes about configurations like default duty option in qbcore"
 }
