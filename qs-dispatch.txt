@@ -1,4 +1,4 @@
 {
-  "version": "2.1.4",
-  "notes": "IMPORTANT FIX, CRITICAL ERRORS FIXED, Vehicles config simplified to prevent critical errors and more"
+  "version": "2.1.5",
+  "notes": "Very important change, this 2.1.5 version its the only working map images now, please update it and NOT OPEN ticket of topic with map dont load, only you need update the script..."
 }
