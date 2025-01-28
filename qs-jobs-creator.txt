@@ -1,4 +1,4 @@
 {
-  "version": "1.0.9",
-  "notes": "Important bug fixes, and changes about configurations like default duty option in qbcore"
+  "version": "1.0.10",
+  "notes": "Important bug fixes"
 }
