@@ -1,4 +1,4 @@
 {
-  "version": "1.0.10",
-  "notes": "Important bug fixes"
+  "version": "2.1.1",
+  "notes": "Important bug fixes and much more, this update its very importante, update your script to get all new features, best performance and functionality!"
 }
