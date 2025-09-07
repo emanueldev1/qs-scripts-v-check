@@ -1,4 +1,4 @@
 {
   "version": "1.0.10",
-  "notes": "IMPORTANT FIX, CRITICAL ERRORS FIXED"
+  "notes": "Fixes, Performance enhancements, and improvements in the script (Important)"
 }
