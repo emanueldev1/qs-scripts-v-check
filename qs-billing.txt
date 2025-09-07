@@ -1,4 +1,4 @@
 {
-  "version": "1.0.2",
-  "notes": "Fixed auto pay infinite (Priority)"
+  "version": "1.0.6",
+  "notes": "Fixes, and performance enhancements! (Important!)"
 }
